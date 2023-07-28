@@ -48,9 +48,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a> 
-</p>
-
-<p align="center">
+  <p align="center">
   <h3 align="center">Languages and Tools I have used.</h3>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
@@ -68,3 +66,6 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a> 
 </p>
+</p>
+
+
