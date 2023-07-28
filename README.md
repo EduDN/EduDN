@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h3 align="center">Favorite Languages.</h3>
+<h3 align="center">Favorites Languages.</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="center">Favorite Tools and Frameworks.</h3>
+<h3 align="center">Favorites Tools and Frameworks.</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
