@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edu</h1>
-<h3 align="center">A passionate Data Scientist Jr and Co-Founder / AI Lead to Binary Brains UPIICSA.</h3>
+<h3 align="center">A passionate AI Engineer and Co-Founder / AI Lead to Binary Brains UPIICSA.</h3>
 
 - 🌱 I’m currently learning **AI**
 
