@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edu</h1>
 <h3 align="center">A passionate AI Engineer and Co-Founder / AI Lead to Binary Brains UPIICSA.</h3>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m in love with **AI**
 
 - 📝 I regularly write articles on [https://medium.com/@navarrete.eduardo](https://medium.com/@navarrete.eduardo)
 
@@ -48,9 +48,10 @@
   </a> 
 
   <p align="center">
-  
+
 </p>
 
+![image](https://github.com/user-attachments/assets/dcf982b7-a4a1-48ad-82bb-2e41007ed4f7)
 
 
 
