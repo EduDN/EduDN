@@ -51,7 +51,6 @@
 
 </p>
 
-![image](https://github.com/user-attachments/assets/dcf982b7-a4a1-48ad-82bb-2e41007ed4f7)
 
 
 
