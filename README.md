@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edu</h1>
 <h3 align="center">A passionate AI Engineer and Co-Founder & AI Lead to Binary Brains UPIICSA.</h3>
 
-- 🌱 I’m in love with **AI**
+- 🤖 I’m in love with **AI**
 
 - 📝 I regularly write articles on [https://medium.com/@navarrete.eduardo](https://medium.com/@navarrete.eduardo)
 
-- 📫 How to reach me **navarrete.eduardo@hotmail.com**
+- 📫 How to reach me **navarrete.eduardo.d@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,8 +22,6 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  </a>
 </p>
 
 <h3 align="center">Favorites Tools and Frameworks.</h3>
