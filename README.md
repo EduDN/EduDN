@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edu</h1>
-<h3 align="center">A passionate AI Engineer and Co-Founder & AI Lead to Binary Brains.</h3>
+<h3 align="center">AI Solution Architect and Co-Founder & AI Lead</h3>
 
 - 🤖 I’m in love with **AI**
 
@@ -23,9 +23,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>  
 </p>
-
 <h3 align="center">Favorites Tools and Frameworks.</h3>
 <p align="center">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   </a>
@@ -44,11 +46,4 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a> 
-
-  <p align="center">
-
 </p>
-
-
-
-
